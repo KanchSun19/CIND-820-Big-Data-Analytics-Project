@@ -16,7 +16,4 @@ My project will help to create a classifier that can help diagnose patients and 
 
 Breast cancer is caused by the abnormal growth of cells in the breast tissue, which is known as a tumor. Tumors can be benign, pre-malignant, or malignant. Breast cancer is diagnosed using procedures such as MRI, mammography, ultrasound, and biopsy.
 
-The earlier the detection of breast cancer, the better the chance of survival. Most significantly, an early identification of breast cancer is crucial since it is linked to a greater number of treatment options, a higher chance of survival, and a better quality of life. ![image](https://user-images.githubusercontent.com/92783883/174950648-dfa01a7f-dd4b-4163-9513-79bd43ccb523.png)
-
-
-
+The earlier the detection of breast cancer, the better the chance of survival. Most significantly, an early identification of breast cancer is crucial since it is linked to a greater number of treatment options, a higher chance of survival, and a better quality of life.
